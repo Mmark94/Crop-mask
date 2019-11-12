@@ -10,7 +10,7 @@ If you don't have one of these two, you can install them using pip (e.g.):
 >pip install Pillow
 
 Example
-![example](example/plate.png)
+![example](Example/plate.png)
 
 Usage
 
