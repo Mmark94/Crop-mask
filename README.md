@@ -11,13 +11,16 @@ If you don't have one of these two, you can install them using pip (e.g.):
 
 Example for a petri dish
 this is the original image
-![example](Example/plate.png)
+
+![plate_original](Example/plate.png)
 
 after cropping
-![example](Example/plate_crop.png)
+
+![plate_crop](Example/plate_crop.png)
 
 after masking
-![example](Example/plate_crop_mask.png)
+
+![plate_mask](Example/plate_crop_mask.png)
 
 
 Usage
@@ -33,10 +36,12 @@ This will crop all the png files in the folder.
 
 Example for a omnitray
 this is the original image
-![example](Example/omnitray.png)
+
+![omnitray_original](Example/omnitray.png)
 
 after cropping
-![example](Example/omnitray_crop.png)
+
+![omnitray_crop](Example/omnitray_crop.png)
 
 Usage
 
