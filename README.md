@@ -10,7 +10,7 @@ If you don't have one of these two, you can install them using pip (e.g.):
 >pip install Pillow
 
 Example
-![alt test](example/plate.png)
+![Crop-mask](example/plate.png)
 
 Usage
 
