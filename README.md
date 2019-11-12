@@ -9,8 +9,16 @@ If you don't have one of these two, you can install them using pip (e.g.):
 
 >pip install Pillow
 
-Example
+Example for a petri dish
+this is the original image
 ![example](Example/plate.png)
+
+after cropping
+![example](Example/plate_crop.png)
+
+after masking
+![example](Example/plate_crop_mask.png)
+
 
 Usage
 
@@ -22,6 +30,13 @@ This will crop only the FILENAME.png
 
 This will crop all the png files in the folder.
 
+
+Example for a omnitray
+this is the original image
+![example](Example/omnitray.png)
+
+after cropping
+![example](Example/omnitray_crop.png)
 
 Usage
 
